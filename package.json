@@ -1,0 +1,22 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sexychessman3/chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sexychessman3/chat/issues"
+  },
+  "homepage": "https://github.com/sexychessman3/chat#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
